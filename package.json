@@ -1,7 +1,7 @@
 {
-  "name": "vscode-theme",
-  "displayName": "vscode-theme",
-  "description": "theme",
+  "name": "ad-astra-theme",
+  "displayName": "Ad Astra",
+  "description": "a dark grey theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "vscode",
+        "label": "Ad Astra",
         "uiTheme": "vs-dark",
-        "path": "./themes/vscode-color-theme.json"
+        "path": "./themes/ad-astra-color-theme.json"
       }
     ]
   }
