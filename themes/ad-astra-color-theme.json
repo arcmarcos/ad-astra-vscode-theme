@@ -178,7 +178,8 @@
         "constant.character",
         "constant.escape",
         "keyword.other.unit",
-        "keyword.other"
+        "keyword.other",
+        "meta.property-value"
       ],
       "settings": {
         "foreground": "#BDD358"
@@ -213,7 +214,7 @@
         "markup.heading",
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-        "meta.attribute-selector.scss"
+        "meta.attribute-selector.scss",
 
       ],
       "settings": {
@@ -681,9 +682,12 @@
         "keyword.control.for.scss",
         "keyword.control.while.scss",
         "keyword.control.else.scss",
-        "punctuation.definition.keyword.scss",
+        "punctuation.definition.keyword",
         "keyword.control.at-rule.include.scss",
-        "keyword.control.at-rule.extend.scss"
+        "keyword.control.at-rule.extend.scss",
+        "keyword.control.at-rule.import.scss",
+        "keyword.control.at-rule.keyframes",
+        "keyword.control.at-rule.media",
       ],
       "settings": {
         "fontStyle": "italic",
