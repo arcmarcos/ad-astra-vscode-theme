@@ -73,7 +73,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#D94948"
+        "foreground": "#48CAE4"
       }
     },
     {
@@ -124,20 +124,18 @@
       "name": "Tags html",
       "scope": [
         "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html",
-        "punctuation.definition.tag.begin.js.jsx",
-        "punctuation.definition.tag.end.js.jsx"
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag.end",
       ],
       "settings": {
-        "foreground": "#7c7c7c"
+        "foreground": "#555"
       }
     },
     {
       "name": "Tag",
       "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
       "settings": {
-        "foreground": "#d94948"
+        "foreground": "#48CAE4"
       }
     },
     {
@@ -152,7 +150,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#6BA9DB"
+        "foreground": "#F9C74F"
       }
     },
     {
@@ -182,7 +180,7 @@
         "meta.property-value"
       ],
       "settings": {
-        "foreground": "#BDD358"
+        "foreground": "#EE6C4D"
       }
     },
     {
@@ -252,7 +250,7 @@
       "name": "CSS font name",
       "scope": ["support.constant.font-name.css"],
       "settings": {
-        "foreground": "#F3A712",
+        "foreground": "#9DD74A",
         "fontStyle": "italic"
       }
     },
@@ -302,7 +300,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FFF29E"
+        "foreground": "#EE6C4D"
       }
     },
     {
@@ -320,7 +318,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFF29E"
+        "foreground": "#EE6C4D"
       }
     },
     {
@@ -641,7 +639,7 @@
       "scope": ["storage.modifier.async", "keyword.control.flow"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#F3A712"
+        "foreground": "#EE6C4D"
       }
     },
     {
@@ -654,7 +652,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#BDD358"
+        "foreground": "#EE6C4D"
       }
     },
     {
@@ -681,7 +679,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#F3A712"
+        "foreground": "#EE6C4D"
       }
     },
     {
